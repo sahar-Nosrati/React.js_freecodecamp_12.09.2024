@@ -1,1 +1,1 @@
-# React.js_freecodecamp_12.09.2024
+- continue study React tutorial
